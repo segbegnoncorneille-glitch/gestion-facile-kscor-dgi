@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "com.kscor.gestionfaciledgi",
-        "sha256_cert_fingerprints": ["07:C3:16:76:00:AF:FA:D8:90:F1:8B:A3:7A:19:EF:85:62:F7:01:A9:96:88:B2:D7:F4:CA:A7:45:36:6A:81:7D"]
+        "sha256_cert_fingerprints": ["98:AD:10:B3:B8:FF:BA:95:85:99:ED:18:B6:31:79:4A:8E:A7:5F:3B:E7:67:89:54:65:D2:D1:39:AF:E8:22:FE"]
       }
     }]
