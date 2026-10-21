@@ -1,26 +1,26 @@
-﻿{
+{
+  "short_name": "KSCOR",
   "name": "GESTION FACILE KSCOR V9.4",
-  "short_name": "GESTION FACILE",
-  "description": "Gestion Stock Ventes + Facture Normalisée e-MECeF DGI Bénin",
-  "start_url": "/index.html",
-  "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#f1f5f9",
-  "theme_color": "#1e40af",
-  "scope": "/",
-  "lang": "fr",
+  "description": "Application PWA de gestion de stock, ventes et suivi e-MECeF DGI",
   "icons": [
     {
-      "src": "/icon-192.png",
+      "src": "icons/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/icon-512.png",
+      "src": "icons/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "start_url": "./index.html",
+  "background_color": "#f1f5f9",
+  "theme_color": "#1e40af",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "fr-FR",
+  "dir": "ltr"
 }
